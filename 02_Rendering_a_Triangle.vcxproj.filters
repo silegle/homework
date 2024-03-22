@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\GameApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CpuTimer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\DXTrace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\GameApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\WinMin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dApp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\d3dUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <FXCompile Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\HLSL\Triangle_PS.hlsl">
+      <Filter>HLSL Files</Filter>
+    </FXCompile>
+    <FXCompile Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\HLSL\Triangle_VS.hlsl">
+      <Filter>HLSL Files</Filter>
+    </FXCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\dmxxxx\Desktop\DirectX11-With-Windows-SDK-master\Project 01-09\02 Rendering a Triangle\HLSL\Triangle.hlsli">
+      <Filter>HLSL Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="HLSL Files">
+      <UniqueIdentifier>{F39487B1-4D89-382F-A9CA-86136E2CF9F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{76FDF64F-2222-3B8E-9127-FD6067B07F56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{332BAE12-DC77-3AC7-848B-37B79494FAF4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

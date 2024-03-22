@@ -1,0 +1,3 @@
+D://CMakeFiles/02_Rendering_a_Triangle.dir
+D://CMakeFiles/ALL_BUILD.dir
+D://CMakeFiles/ZERO_CHECK.dir
